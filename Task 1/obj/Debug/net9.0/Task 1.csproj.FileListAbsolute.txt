@@ -1,0 +1,28 @@
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\bin\Debug\net9.0\Task 1.exe
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\bin\Debug\net9.0\Task 1.deps.json
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\bin\Debug\net9.0\Task 1.dll
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\bin\Debug\net9.0\Task 1.pdb
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.dll
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.pdb
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+C:\Users\Administrator\OneDrive - Itahari International College Pvt. Ltd\web dev\workshop3\Solution1\Task 1\obj\Debug\net9.0\ref\Task 1.dll
+D:\Solution1\Task 1\bin\Debug\net9.0\Task 1.exe
+D:\Solution1\Task 1\bin\Debug\net9.0\Task 1.deps.json
+D:\Solution1\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+D:\Solution1\Task 1\bin\Debug\net9.0\Task 1.dll
+D:\Solution1\Task 1\bin\Debug\net9.0\Task 1.pdb
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.dll
+D:\Solution1\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.pdb
+D:\Solution1\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+D:\Solution1\Task 1\obj\Debug\net9.0\ref\Task 1.dll
