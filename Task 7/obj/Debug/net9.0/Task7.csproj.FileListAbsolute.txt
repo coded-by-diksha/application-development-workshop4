@@ -1,0 +1,15 @@
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.AssemblyInfoInputs.cache
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.AssemblyInfo.cs
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.csproj.CoreCompileInputs.cache
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.sourcelink.json
+D:\Solution1\Task 7\bin\Debug\net9.0\Task7.exe
+D:\Solution1\Task 7\bin\Debug\net9.0\Task7.deps.json
+D:\Solution1\Task 7\bin\Debug\net9.0\Task7.runtimeconfig.json
+D:\Solution1\Task 7\bin\Debug\net9.0\Task7.dll
+D:\Solution1\Task 7\bin\Debug\net9.0\Task7.pdb
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.dll
+D:\Solution1\Task 7\obj\Debug\net9.0\refint\Task7.dll
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.pdb
+D:\Solution1\Task 7\obj\Debug\net9.0\Task7.genruntimeconfig.cache
+D:\Solution1\Task 7\obj\Debug\net9.0\ref\Task7.dll
